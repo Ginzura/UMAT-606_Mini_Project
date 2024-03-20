@@ -17,7 +17,7 @@ Search Tool (srep) aims to mimic the functionalities of the `grep` command.
 1. Clone the GitHub repository: 
 
    ```bash
-   git clone sample.link
+   git clone 'https://github.com/Ginzura/UMAT-606_Mini_Project.git'
    ```
 
    Navigate to the search-tool directory:
